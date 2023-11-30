@@ -1,0 +1,25 @@
+{
+  "assets":[
+     {
+        "AssetId":"TOS_VOD",
+        "AssetName":"Tears of Steel",
+        "AssetUrls":[
+           "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        ]
+     },
+     {
+        "AssetId":"AKAMAI_LIVE",
+        "AssetName":"AKAMAI Live Feed",
+        "AssetUrls":[
+           "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+        ]
+     },
+     {
+        "AssetId":"WLUK_LIVE",
+        "AssetName":"WLUK Live Feed",
+        "AssetUrls":[
+           "https://content.uplynk.com/channel/3353345690554b0e8de31bcd6b73fc37.m3u8"
+        ]
+     }
+  ]
+}
