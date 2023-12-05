@@ -16,3 +16,5 @@ Future plan to support MPEG-DASH.
 #### Run Sample
 ./cdn_check_app hls_test_vectors.json stats 3
 
+#### Output interpretation
+Given in the sample.xlsx
